@@ -76,6 +76,7 @@ p {
 
 @media (min-width: 376px) {
   .social {
+    padding-top: 40px;
     text-align: right;
   }
 }
